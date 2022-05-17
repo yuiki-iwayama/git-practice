@@ -3,4 +3,4 @@
 ローカルリポで変更
 rebase-practiceで更新(rebaseコンフリクト用)
 rebase pull用
-stash コンフリクト用
+stash練習（トラック済）
